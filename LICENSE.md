@@ -1,13 +1,13 @@
 Below is the legal stuff and the official fine print.
 
-Here are my techie readable words.
-Thanks for being here.
-Basically have fun and change everything as you like.
-Don't blame me if something or anything goes wrong,
-consider writing me if I help you or you still think I could help you.
-Be warned I do not guarantee anything and I do not promise any kind of 
-support whatsoever, neither an answer, but as a reasonable human being 
-I could be nice enough and maybe even happy to answer you.
+Here are my techie readable words.<br>
+Thanks for being here.<br>
+Basically have fun and change everything as you like.<br>
+Don't blame me if something or anything goes wrong,<br>
+consider writing me if I help you or you still think I could help you.<br>
+Be warned I do not guarantee anything and I do not promise any kind of <br>
+support whatsoever, neither an answer, but as a reasonable human being <br>
+I could be nice enough and maybe even happy to answer you.<br>
 
 RobMcZag
 
