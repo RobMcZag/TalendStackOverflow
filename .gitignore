@@ -1,0 +1,6 @@
+.settings/*
+code/routines/system/*
+sqlPatterns/*/system/*
+temp/*
+.project
+talend.project
